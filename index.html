@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-GB"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>QuillOps</title>
+<style>
+:root{--bg:#f4f6fa;--card:#fff;--tx:#14181f;--mu:#5d6675;--bd:#dfe3ea}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1319;--card:#171d26;--tx:#e8ecf2;--mu:#98a2b3;--bd:#2a3340}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding-bottom:env(safe-area-inset-bottom,0px)}
+header{background:linear-gradient(135deg,#0e7c86,#7c4dff 55%,#e11d48);color:#fff;padding:calc(env(safe-area-inset-top,0px) + 18px) 16px 18px}
+header h1{margin:0;font-size:28px}header p{margin:2px 0 0;opacity:.9;font-size:13px}
+main{max-width:820px;margin:0 auto;padding:12px 16px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin:12px 0}
+.tile{border-radius:12px;padding:10px 12px;color:#fff}.tile b{display:block;font-size:22px}.tile span{font-size:12px;opacity:.9}
+.bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--mu)}
+input{width:70px;padding:6px 8px;border-radius:8px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font:inherit}
+button{font:inherit;border:0;border-radius:8px;padding:5px 10px;cursor:pointer;background:var(--bd);color:var(--tx)}
+section{background:var(--card);border:1px solid var(--bd);border-top:5px solid var(--c);border-radius:12px;padding:14px;margin:14px 0}
+section h2{margin:0;font-size:18px;color:var(--c)}.price{font-size:13px;color:var(--mu);margin:2px 0 8px}
+.lead{border-top:1px solid var(--bd);padding:8px 0}.lead b{display:block}
+.why{font-size:13px;color:var(--mu);margin:2px 0}.tag{font-size:11px;border-radius:10px;padding:1px 8px;background:var(--c);color:#fff;margin-right:4px}
+.note{font-size:12px;color:var(--mu);margin:16px 0}
+</style></head><body>
+<header><h1>QuillOps</h1><p>Isle of Man opportunity signals · concept project · <span id="upd">loading</span></p></header>
+<main>
+<div class="tiles" id="tiles"></div>
+<div class="bar">Assumed staff for estimates <input id="staff" type="number" min="1" value="25"> <button id="reset">Show contacted leads again</button></div>
+<div id="lanes"></div>
+<p class="note">Signals come from Smart Island open data (vacancies, registry, planning), refreshed daily. Leads are prompts for research, not verified facts. Connectivity and network prices are your stated monthly ranges. Not for commercial use.</p>
+</main>
+<script>
+var LANES=[
+{id:'it',n:'IT and cyber',c:'#0e7c86',p:function(s){return '£'+(s*115).toLocaleString('en-GB')+' to £'+(s*150).toLocaleString('en-GB')+' / month for '+s+' seats (£115 to £150 per seat)'}},
+{id:'voip',n:'VoIP',c:'#7c4dff',p:function(s){return '£'+(s*12).toLocaleString('en-GB')+' to £'+(s*18).toLocaleString('en-GB')+' / month for '+s+' seats (£12 to £18 per seat)'}},
+{id:'connectivity',n:'Connectivity',c:'#f59e0b',p:function(){return '£100 to £2,500 / month, from layer 3 broadband to dedicated and cross connects'}},
+{id:'network',n:'Network',c:'#2563eb',p:function(){return '£150 to £2,000 / month depending on network size'}},
+{id:'signatures',n:'Digital signatures',c:'#e11d48',p:function(){return '£218 / month (1,500 envelopes) up to £750 / month (5,000 envelopes)'}}];
+var DATA={leads:[]},DONE={};
+try{DONE=JSON.parse(localStorage.getItem('qo-done')||'{}')}catch(e){}
+function save(){try{localStorage.setItem('qo-done',JSON.stringify(DONE))}catch(e){}}
+function h(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function draw(){
+ var s=Math.max(1,parseInt(document.getElementById('staff').value,10)||25),T=document.getElementById('tiles'),O=document.getElementById('lanes');
+ T.textContent='';O.textContent='';
+ LANES.forEach(function(l){
+  var ls=DATA.leads.filter(function(x){return x.lanes&&x.lanes[l.id]&&!DONE[x.name]});
+  var t=h('div','tile');t.style.background=l.c;t.appendChild(h('b',null,ls.length));t.appendChild(h('span',null,l.n));T.appendChild(t);
+  var sec=h('section');sec.style.setProperty('--c',l.c);sec.appendChild(h('h2',null,l.n));sec.appendChild(h('div','price',l.p(s)));
+  if(!ls.length)sec.appendChild(h('div','why','No leads right now.'));
+  ls.slice(0,12).forEach(function(x){
+   var d=h('div','lead'),b=h('b',null,x.name),why=x.lanes[l.id];
+   var tag=h('span','tag',(x.src||[]).join(' + '));tag.style.setProperty('--c',l.c);
+   var btn=h('button',null,'Contacted');btn.style.float='right';btn.onclick=function(){DONE[x.name]=1;save();draw()};
+   d.appendChild(btn);d.appendChild(b);d.appendChild(tag);
+   why.slice(0,3).forEach(function(w){d.appendChild(h('div','why','Why now: '+w))});
+   sec.appendChild(d)});
+  O.appendChild(sec)});
+ document.getElementById('upd').textContent=DATA.updated?'updated '+DATA.updated.replace('T',' ')+' UTC':'no data yet, run the refresh';
+ if(DATA.errors&&DATA.errors.length)O.appendChild(h('p','note','Feed issues: '+DATA.errors.join('; ')));
+}
+document.getElementById('staff').oninput=draw;
+document.getElementById('reset').onclick=function(){DONE={};save();draw()};
+fetch('data.json').then(function(r){return r.json()}).then(function(d){DATA=d;draw()}).catch(function(){draw()});
+</script></body></html>
