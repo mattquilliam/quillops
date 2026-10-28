@@ -1,1 +1,652 @@
-{"updated":null,"errors":[],"leads":[]}
+{
+ "updated": "2026-10-28T22:32+00:00",
+ "errors": [],
+ "leads": [
+  {
+   "name": "Utmost",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Administrator",
+     "Hiring document-heavy back-office roles: Senior AML Administrator",
+     "Hiring document-heavy back-office roles: Senior Administrator - Investments",
+     "Hiring document-heavy back-office roles: Senior Administrator - CEC Reviews"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "EPL Limited",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Administrator - EMC Investments",
+     "Hiring document-heavy back-office roles: Client Accountant",
+     "Hiring document-heavy back-office roles: Accountant/Tax"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Nedbank Private Wealth",
+   "lanes": {
+    "it": [
+     "Hiring 9 roles at once, so likely growing",
+     "Advertising an IT role, which can mean capacity strain: Data Engineer/Developer  - FTC"
+    ],
+    "voip": [
+     "Hiring 9 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 9 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Executive Support Administrator",
+     "Hiring document-heavy back-office roles: Data Quality Administrator - 4M FTC"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Barclays Bank PLC",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Senior Customer Service Advisor",
+     "Hiring front-of-house or call roles: Customer Service Advisor"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Atla Services Limited",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Client Administrator",
+     "Hiring document-heavy back-office roles: Client Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Customer Service Officer"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Suntera Global",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Finance Operations Manager"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Selin Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Comis Hotel and Golf Resort",
+   "lanes": {
+    "it": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 5 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Clear Pharmacy",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Opul",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Dandara",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Kellas Limited",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Sapphire Care Limited",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Hill Robinson International Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Karsons Pharmacy",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Marks and Spencer",
+   "lanes": {
+    "it": [
+     "Hiring 9 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 9 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 9 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "BEATS - Newsbeat",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Astrea Bioseperations Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "New Earth Construction Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Capital International",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Senior Power Platform Developer"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Reconciliation Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Southern Group Practice",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Medical Receptionist/Administrator"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Medical Receptionist/Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "The Albion Knitting Company IOM Ltd",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
+     "Advertising an IT role, which can mean capacity strain: Linking Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Trade Distribution",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: SALES LEDGER ADMINISTRATOR"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Finch Hill Health Centre",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Medical Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ormco Accounts Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Client Accountant - Peel"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ronaldsway Aircraft Company",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Castletown Medical Centre",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Medical Receptionist"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Zurich Insurance",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Arg Beiyn & Milan Veterinary Practices",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Receptionist/Support Team Member"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Manx Telecom",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Finance Assistant - Synapse & OV"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "City Plumbing Supplies",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Warehouse/Counter Operative/Office/Calling Custome"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Hill Robinson International Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Corporate Finance Assistant"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Manavia Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior eGaming Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Monument International",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Risk & Compliance Manager 12-month FTC"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "The Empress Hotel",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Receptionist"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "HPB Assurance Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Payments & Accounts Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "MannBenham Advocates Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Drainage Consultants",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Trainee Drainage Repair Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "EFB Property Investments 2 (IOM) Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Finance Manager"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Commercial Trucks IOM Ltd",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Administrator / Bookkeeper"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Argon Business Systems Limited",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: 1st Line Support Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Y & A Corporate Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Company Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  }
+ ]
+}
