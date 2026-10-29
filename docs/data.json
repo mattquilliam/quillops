@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:39+00:00",
+ "updated": "2026-10-29T12:17+00:00",
  "errors": [],
  "leads": [
   {
@@ -219,23 +219,6 @@
    ]
   },
   {
-   "name": "Opul",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Dandara",
    "lanes": {
     "it": [
@@ -290,13 +273,13 @@
    "name": "Hill Robinson International Ltd",
    "lanes": {
     "it": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
