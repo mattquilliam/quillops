@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:17+00:00",
+ "updated": "2026-10-30T12:07+00:00",
  "errors": [],
  "leads": [
   {
@@ -70,6 +70,27 @@
    ]
   },
   {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Compliance Analyst",
+     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Barclays Bank PLC",
    "lanes": {
     "it": [
@@ -110,6 +131,24 @@
    ]
   },
   {
+   "name": "Palace Holdings Limited",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Receptionist"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Treasury",
    "lanes": {
     "it": [
@@ -128,26 +167,6 @@
    ]
   },
   {
-   "name": "Standard Bank Isle of Man",
-   "lanes": {
-    "it": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Suntera Global",
    "lanes": {
     "it": [
@@ -158,9 +177,6 @@
     ],
     "connectivity": [
      "Hiring 4 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Finance Operations Manager"
     ]
    },
    "src": [
@@ -246,23 +262,6 @@
     ],
     "connectivity": [
      "Hiring 4 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Sapphire Care Limited",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -372,6 +371,20 @@
    ]
   },
   {
+   "name": "Peel Group Practice",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Part-time Receptionist / Administrator"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Part-time Receptionist / Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Capital International",
    "lanes": {
     "it": [
@@ -412,6 +425,28 @@
    ]
   },
   {
+   "name": "Ronaldsway Aircraft Company",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ocean Motor Village",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Accounts Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Trade Distribution",
    "lanes": {
     "signatures": [
@@ -438,17 +473,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Client Accountant - Peel"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Ronaldsway Aircraft Company",
-   "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
     ]
    },
    "src": [
