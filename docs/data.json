@@ -1,24 +1,23 @@
 {
- "updated": "2026-10-30T12:07+00:00",
+ "updated": "2026-10-31T11:41+00:00",
  "errors": [],
  "leads": [
   {
    "name": "Utmost",
    "lanes": {
     "it": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Administrator",
      "Hiring document-heavy back-office roles: Senior AML Administrator",
-     "Hiring document-heavy back-office roles: Senior Administrator - Investments",
-     "Hiring document-heavy back-office roles: Senior Administrator - CEC Reviews"
+     "Hiring document-heavy back-office roles: Senior Administrator - Investments"
     ]
    },
    "src": [
@@ -41,28 +40,6 @@
      "Hiring document-heavy back-office roles: Senior Administrator - EMC Investments",
      "Hiring document-heavy back-office roles: Client Accountant",
      "Hiring document-heavy back-office roles: Accountant/Tax"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Nedbank Private Wealth",
-   "lanes": {
-    "it": [
-     "Hiring 9 roles at once, so likely growing",
-     "Advertising an IT role, which can mean capacity strain: Data Engineer/Developer  - FTC"
-    ],
-    "voip": [
-     "Hiring 9 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Executive Support Administrator",
-     "Hiring document-heavy back-office roles: Data Quality Administrator - 4M FTC"
     ]
    },
    "src": [
@@ -110,19 +87,39 @@
    ]
   },
   {
-   "name": "Atla Services Limited",
+   "name": "Nedbank Private Wealth",
    "lanes": {
     "it": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing",
+     "Advertising an IT role, which can mean capacity strain: Data Engineer/Developer  - FTC"
     ],
     "voip": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "signatures": [
-     "Hiring document-heavy back-office roles: Senior Client Administrator",
+     "Hiring document-heavy back-office roles: Data Quality Administrator - 4M FTC"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Suntera Global",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "signatures": [
      "Hiring document-heavy back-office roles: Client Administrator"
     ]
    },
@@ -167,50 +164,16 @@
    ]
   },
   {
-   "name": "Suntera Global",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Selin Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Comis Hotel and Golf Resort",
    "lanes": {
     "it": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -269,40 +232,6 @@
    ]
   },
   {
-   "name": "Hill Robinson International Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Karsons Pharmacy",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Marks and Spencer",
    "lanes": {
     "it": [
@@ -313,23 +242,6 @@
     ],
     "connectivity": [
      "Hiring 9 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "BEATS - Newsbeat",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -425,10 +337,10 @@
    ]
   },
   {
-   "name": "Ronaldsway Aircraft Company",
+   "name": "Danucore Limited",
    "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
+    "network": [
+     "Hiring network or infrastructure skills: AI Infrastructure Engineer (Junior to Senior)"
     ]
    },
    "src": [
@@ -436,10 +348,32 @@
    ]
   },
   {
-   "name": "Ocean Motor Village",
+   "name": "KS Limited",
    "lanes": {
     "signatures": [
-     "Hiring document-heavy back-office roles: Accounts Administrator"
+     "Hiring document-heavy back-office roles: Senior Accountant"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "EFB Property Investments 2 (IOM) Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Finance Manager"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ronaldsway Aircraft Company",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
     ]
    },
    "src": [
@@ -480,17 +414,6 @@
    ]
   },
   {
-   "name": "Castletown Medical Centre",
-   "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Medical Receptionist"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Zurich Insurance",
    "lanes": {
     "it": [
@@ -524,17 +447,6 @@
    ]
   },
   {
-   "name": "City Plumbing Supplies",
-   "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Warehouse/Counter Operative/Office/Calling Custome"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Hill Robinson International Limited",
    "lanes": {
     "signatures": [
@@ -550,17 +462,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Senior eGaming Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Monument International",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Risk & Compliance Manager 12-month FTC"
     ]
    },
    "src": [
@@ -590,32 +491,10 @@
    ]
   },
   {
-   "name": "MannBenham Advocates Limited",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Senior Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Drainage Consultants",
    "lanes": {
     "it": [
      "Advertising an IT role, which can mean capacity strain: Trainee Drainage Repair Technician"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "EFB Property Investments 2 (IOM) Limited",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Finance Manager"
     ]
    },
    "src": [
