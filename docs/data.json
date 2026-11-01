@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:41+00:00",
+ "updated": "2026-11-01T12:40+00:00",
  "errors": [],
  "leads": [
   {
@@ -249,23 +249,6 @@
    ]
   },
   {
-   "name": "Astrea Bioseperations Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "New Earth Construction Ltd",
    "lanes": {
     "it": [
@@ -403,17 +386,6 @@
    ]
   },
   {
-   "name": "Ormco Accounts Limited",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Client Accountant - Peel"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Zurich Insurance",
    "lanes": {
     "it": [
@@ -506,28 +478,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Administrator / Bookkeeper"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Argon Business Systems Limited",
-   "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: 1st Line Support Technician"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Y & A Corporate Limited",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Company Administrator"
     ]
    },
    "src": [
