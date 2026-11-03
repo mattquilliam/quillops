@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:45+00:00",
+ "updated": "2026-11-03T13:37+00:00",
  "errors": [],
  "leads": [
   {
@@ -80,27 +80,6 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Nedbank Private Wealth",
-   "lanes": {
-    "it": [
-     "Hiring 8 roles at once, so likely growing",
-     "Advertising an IT role, which can mean capacity strain: Data Engineer/Developer  - FTC"
-    ],
-    "voip": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Data Quality Administrator - 4M FTC"
     ]
    },
    "src": [
