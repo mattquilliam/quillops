@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-04T13:46+00:00",
+ "updated": "2026-11-05T13:58+00:00",
  "errors": [],
  "leads": [
+  {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager",
+     "Hiring document-heavy back-office roles: Compliance Analyst",
+     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
   {
    "name": "Utmost",
    "lanes": {
@@ -47,27 +69,6 @@
    ]
   },
   {
-   "name": "Standard Bank Isle of Man",
-   "lanes": {
-    "it": [
-     "Hiring 7 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 7 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 7 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Compliance Analyst",
-     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Barclays Bank PLC",
    "lanes": {
     "it": [
@@ -77,6 +78,60 @@
      "Hiring 3 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Senior Customer Service Advisor",
      "Hiring front-of-house or call roles: Customer Service Advisor"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Customer Service Officer"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "The Empress Hotel",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Receptionist"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ronaldsway Aircraft Company",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing",
+     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
@@ -125,14 +180,30 @@
    ]
   },
   {
-   "name": "Treasury",
+   "name": "Tesco PLC",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Opul",
    "lanes": {
     "it": [
      "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 3 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Customer Service Officer"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
@@ -316,6 +387,17 @@
    ]
   },
   {
+   "name": "Hansard Global Plc",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Investment Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Danucore Limited",
    "lanes": {
     "network": [
@@ -342,17 +424,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Finance Manager"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Ronaldsway Aircraft Company",
-   "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
     ]
    },
    "src": [
@@ -419,28 +490,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Senior eGaming Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "The Empress Hotel",
-   "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Receptionist"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "HPB Assurance Limited",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Payments & Accounts Administrator"
     ]
    },
    "src": [
