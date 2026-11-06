@@ -1,29 +1,7 @@
 {
- "updated": "2026-11-05T13:58+00:00",
+ "updated": "2026-11-06T13:44+00:00",
  "errors": [],
  "leads": [
-  {
-   "name": "Standard Bank Isle of Man",
-   "lanes": {
-    "it": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager",
-     "Hiring document-heavy back-office roles: Compliance Analyst",
-     "Hiring document-heavy back-office roles: Regulatory Compliance Officer"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
   {
    "name": "Utmost",
    "lanes": {
@@ -69,6 +47,27 @@
    ]
   },
   {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager",
+     "Hiring document-heavy back-office roles: Compliance Analyst"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Barclays Bank PLC",
    "lanes": {
     "it": [
@@ -88,17 +87,35 @@
    ]
   },
   {
-   "name": "Treasury",
+   "name": "Zurich Insurance",
    "lanes": {
     "it": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing",
+     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
     ],
     "voip": [
-     "Hiring 4 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Customer Service Officer"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
      "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Customer Service Officer"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -180,6 +197,91 @@
    ]
   },
   {
+   "name": "Manx Independent Carriers",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "MCH PSYCHOLOGICAL SERVICES",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Nedbank Private Wealth",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Brunch Bakes Bubbles and Bites",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Be Well Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Tesco PLC",
    "lanes": {
     "it": [
@@ -248,23 +350,6 @@
    ]
   },
   {
-   "name": "Clear Pharmacy",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Dandara",
    "lanes": {
     "it": [
@@ -302,13 +387,13 @@
    "name": "Marks and Spencer",
    "lanes": {
     "it": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -446,17 +531,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Medical Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Zurich Insurance",
-   "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
     ]
    },
    "src": [
