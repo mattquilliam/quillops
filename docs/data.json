@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:44+00:00",
+ "updated": "2026-11-07T12:26+00:00",
  "errors": [],
  "leads": [
   {
@@ -18,28 +18,6 @@
      "Hiring document-heavy back-office roles: Administrator",
      "Hiring document-heavy back-office roles: Senior AML Administrator",
      "Hiring document-heavy back-office roles: Senior Administrator - Investments"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "EPL Limited",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Senior Administrator - EMC Investments",
-     "Hiring document-heavy back-office roles: Client Accountant",
-     "Hiring document-heavy back-office roles: Accountant/Tax"
     ]
    },
    "src": [
@@ -77,42 +55,6 @@
      "Hiring 3 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Senior Customer Service Advisor",
      "Hiring front-of-house or call roles: Customer Service Advisor"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Zurich Insurance",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing",
-     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Treasury",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Customer Service Officer"
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
@@ -197,16 +139,84 @@
    ]
   },
   {
+   "name": "Superdrug",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Brunch Bakes Bubbles and Bites",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Clear Pharmacy",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Be Well Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Manx Independent Carriers",
    "lanes": {
     "it": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -241,40 +251,6 @@
     ],
     "connectivity": [
      "Hiring 6 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Brunch Bakes Bubbles and Bites",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Be Well Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -446,13 +422,11 @@
    ]
   },
   {
-   "name": "Southern Group Practice",
+   "name": "The Albion Knitting Company IOM Ltd",
    "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Medical Receptionist/Administrator"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Medical Receptionist/Administrator"
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
+     "Advertising an IT role, which can mean capacity strain: Linking Technician"
     ]
    },
    "src": [
@@ -460,11 +434,10 @@
    ]
   },
   {
-   "name": "The Albion Knitting Company IOM Ltd",
+   "name": "Zurich Insurance",
    "lanes": {
     "it": [
-     "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
-     "Advertising an IT role, which can mean capacity strain: Linking Technician"
+     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
     ]
    },
    "src": [
@@ -527,21 +500,10 @@
    ]
   },
   {
-   "name": "Finch Hill Health Centre",
+   "name": "EPL Limited",
    "lanes": {
     "signatures": [
-     "Hiring document-heavy back-office roles: Medical Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Arg Beiyn & Milan Veterinary Practices",
-   "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Receptionist/Support Team Member"
+     "Hiring document-heavy back-office roles: Senior Administrator - EMC Investments"
     ]
    },
    "src": [
