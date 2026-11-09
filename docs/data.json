@@ -1,40 +1,18 @@
 {
- "updated": "2026-11-08T12:44+00:00",
+ "updated": "2026-11-09T15:09+00:00",
  "errors": [],
  "leads": [
-  {
-   "name": "Utmost",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Administrator",
-     "Hiring document-heavy back-office roles: Senior AML Administrator",
-     "Hiring document-heavy back-office roles: Senior Administrator - Investments"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
   {
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Financial Crime Compliance Manager",
@@ -73,24 +51,6 @@
     "voip": [
      "Hiring 3 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Receptionist"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Ronaldsway Aircraft Company",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing",
-     "Advertising an IT role, which can mean capacity strain: Maintenance Mechatronics Technician"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
