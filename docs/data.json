@@ -1,28 +1,7 @@
 {
- "updated": "2026-11-10T14:20+00:00",
+ "updated": "2026-11-11T13:33+00:00",
  "errors": [],
  "leads": [
-  {
-   "name": "Standard Bank Isle of Man",
-   "lanes": {
-    "it": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager",
-     "Hiring document-heavy back-office roles: Compliance Analyst"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
   {
    "name": "Barclays Bank PLC",
    "lanes": {
@@ -36,6 +15,26 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
     ]
    },
    "src": [
@@ -89,6 +88,57 @@
     "voip": [
      "Hiring 3 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Receptionist"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Tesco PLC",
+   "lanes": {
+    "it": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 5 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Nedbank Private Wealth",
+   "lanes": {
+    "it": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 7 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Bonzai Limited",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
@@ -262,40 +312,6 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Nedbank Private Wealth",
-   "lanes": {
-    "it": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Tesco PLC",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
