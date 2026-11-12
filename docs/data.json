@@ -1,7 +1,26 @@
 {
- "updated": "2026-11-11T13:33+00:00",
+ "updated": "2026-11-12T14:37+00:00",
  "errors": [],
  "leads": [
+  {
+   "name": "Sure by Beyon",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Senior Customer Services Manager",
+     "Hiring front-of-house or call roles: Customer Service Advisor"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
   {
    "name": "Barclays Bank PLC",
    "lanes": {
@@ -25,13 +44,13 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
@@ -98,6 +117,23 @@
    ]
   },
   {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Tesco PLC",
    "lanes": {
     "it": [
@@ -142,23 +178,6 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Marks and Spencer",
-   "lanes": {
-    "it": [
-     "Hiring 9 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 9 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -423,6 +442,17 @@
     "it": [
      "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
      "Advertising an IT role, which can mean capacity strain: Linking Technician"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Whittles Law Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Legal PA/Administrator"
     ]
    },
    "src": [
