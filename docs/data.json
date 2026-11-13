@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:37+00:00",
+ "updated": "2026-11-13T13:55+00:00",
  "errors": [],
  "leads": [
   {
@@ -44,13 +44,13 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
@@ -270,23 +270,6 @@
    ]
   },
   {
-   "name": "Clear Pharmacy",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Be Well Ltd",
    "lanes": {
     "it": [
@@ -449,6 +432,17 @@
    ]
   },
   {
+   "name": "IFGL",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Regulatory Compliance Specialist"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Whittles Law Limited",
    "lanes": {
     "signatures": [
@@ -464,17 +458,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Senior eGaming / CSP Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Zurich Insurance",
-   "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Actuarial Model Developer (Prophet)"
     ]
    },
    "src": [
