@@ -1,20 +1,23 @@
 {
- "updated": "2026-11-13T13:55+00:00",
+ "updated": "2026-11-14T12:57+00:00",
  "errors": [],
  "leads": [
   {
    "name": "Sure by Beyon",
    "lanes": {
     "it": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 6 roles at once, so likely growing",
+     "Hiring 8 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Senior Customer Services Manager",
      "Hiring front-of-house or call roles: Customer Service Advisor"
     ],
     "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
+    ],
+    "network": [
+     "Hiring network or infrastructure skills: Fixed Mobile Convergence Network Performance Lead"
     ]
    },
    "src": [
@@ -22,18 +25,20 @@
    ]
   },
   {
-   "name": "Barclays Bank PLC",
+   "name": "Ambitions  Ltd",
    "lanes": {
     "it": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 3 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Senior Customer Service Advisor",
-     "Hiring front-of-house or call roles: Customer Service Advisor"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Sales Support Administrator",
+     "Hiring document-heavy back-office roles: Client Services Administrator"
     ]
    },
    "src": [
@@ -44,13 +49,13 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
@@ -151,23 +156,6 @@
    ]
   },
   {
-   "name": "Nedbank Private Wealth",
-   "lanes": {
-    "it": [
-     "Hiring 7 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 7 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 7 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Bonzai Limited",
    "lanes": {
     "it": [
@@ -178,23 +166,6 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Ambitions  Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -358,13 +329,13 @@
    "name": "Dandara",
    "lanes": {
     "it": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -413,6 +384,18 @@
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Part-time Receptionist / Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Barclays Bank PLC",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Senior Customer Service Advisor",
+     "Hiring front-of-house or call roles: Customer Service Advisor"
     ]
    },
    "src": [
