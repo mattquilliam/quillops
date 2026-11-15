@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:57+00:00",
+ "updated": "2026-11-15T13:25+00:00",
  "errors": [],
  "leads": [
   {
@@ -49,34 +49,16 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "The Empress Hotel",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Receptionist"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -485,17 +467,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Finance Manager"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Trade Distribution",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: SALES LEDGER ADMINISTRATOR"
     ]
    },
    "src": [
