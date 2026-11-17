@@ -1,7 +1,27 @@
 {
- "updated": "2026-11-16T14:46+00:00",
+ "updated": "2026-11-17T15:29+00:00",
  "errors": [],
  "leads": [
+  {
+   "name": "The Albion Knitting Company IOM Ltd",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing",
+     "Advertising an IT role, which can mean capacity strain: Knitwear Product Developer & Knitting Coordinator",
+     "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
+     "Advertising an IT role, which can mean capacity strain: Linking Technician"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
   {
    "name": "Sure by Beyon",
    "lanes": {
@@ -28,17 +48,37 @@
    "name": "Ambitions  Ltd",
    "lanes": {
     "it": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Sales Support Administrator",
      "Hiring document-heavy back-office roles: Client Services Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 5 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Deputy Legal Aid Certifying Officer"
     ]
    },
    "src": [
@@ -86,25 +126,7 @@
    ]
   },
   {
-   "name": "Palace Holdings Limited",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Receptionist"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Treasury",
+   "name": "Clear Pharmacy",
    "lanes": {
     "it": [
      "Hiring 3 roles at once, so likely growing"
@@ -385,11 +407,10 @@
    ]
   },
   {
-   "name": "The Albion Knitting Company IOM Ltd",
+   "name": "Hailwood Medical Practice LLC",
    "lanes": {
-    "it": [
-     "Advertising an IT role, which can mean capacity strain: Seasonal QC and Packing Technician",
-     "Advertising an IT role, which can mean capacity strain: Linking Technician"
+    "signatures": [
+     "Hiring document-heavy back-office roles: Medical Office Administrator"
     ]
    },
    "src": [
