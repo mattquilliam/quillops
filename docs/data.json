@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:29+00:00",
+ "updated": "2026-11-18T15:06+00:00",
  "errors": [],
  "leads": [
   {
@@ -66,6 +66,26 @@
    ]
   },
   {
+   "name": "IFGL",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Regulatory Compliance Specialist"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Treasury",
    "lanes": {
     "it": [
@@ -119,6 +139,23 @@
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Client Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Nedbank Private Wealth",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -296,23 +333,6 @@
    ]
   },
   {
-   "name": "Crossroads",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Comis Hotel and Golf Resort",
    "lanes": {
     "it": [
@@ -407,10 +427,10 @@
    ]
   },
   {
-   "name": "Hailwood Medical Practice LLC",
+   "name": "LMS Partners",
    "lanes": {
     "signatures": [
-     "Hiring document-heavy back-office roles: Medical Office Administrator"
+     "Hiring document-heavy back-office roles: Private Client Administrator"
     ]
    },
    "src": [
@@ -418,10 +438,10 @@
    ]
   },
   {
-   "name": "IFGL",
+   "name": "Hailwood Medical Practice LLC",
    "lanes": {
     "signatures": [
-     "Hiring document-heavy back-office roles: Senior Regulatory Compliance Specialist"
+     "Hiring document-heavy back-office roles: Medical Office Administrator"
     ]
    },
    "src": [
