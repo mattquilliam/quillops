@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:06+00:00",
+ "updated": "2026-11-19T15:14+00:00",
  "errors": [],
  "leads": [
   {
@@ -106,26 +106,6 @@
    ]
   },
   {
-   "name": "Standard Bank Isle of Man",
-   "lanes": {
-    "it": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Financial Crime Compliance Manager"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Suntera Global",
    "lanes": {
     "it": [
@@ -139,6 +119,40 @@
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Client Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Fancy A Coffee Limited",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Praxis Care",
+   "lanes": {
+    "it": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 3 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -180,16 +194,33 @@
    ]
   },
   {
+   "name": "Standard Bank Isle of Man",
+   "lanes": {
+    "it": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 7 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Tesco PLC",
    "lanes": {
     "it": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -427,6 +458,17 @@
    ]
   },
   {
+   "name": "Mannin Hotel",
+   "lanes": {
+    "voip": [
+     "Hiring front-of-house or call roles: Hotel Receptionist"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "LMS Partners",
    "lanes": {
     "signatures": [
@@ -464,17 +506,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Senior eGaming / CSP Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Hansard Global Plc",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Investment Administrator"
     ]
    },
    "src": [
