@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:14+00:00",
+ "updated": "2026-11-20T14:53+00:00",
  "errors": [],
  "leads": [
   {
@@ -48,13 +48,13 @@
    "name": "Ambitions  Ltd",
    "lanes": {
     "it": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 7 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 7 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 7 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Sales Support Administrator",
@@ -126,16 +126,16 @@
    ]
   },
   {
-   "name": "Fancy A Coffee Limited",
+   "name": "Nedbank Private Wealth",
    "lanes": {
     "it": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 10 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 10 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 10 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -146,13 +146,13 @@
    "name": "Praxis Care",
    "lanes": {
     "it": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -160,7 +160,7 @@
    ]
   },
   {
-   "name": "Nedbank Private Wealth",
+   "name": "Fancy A Coffee Limited",
    "lanes": {
     "it": [
      "Hiring 3 roles at once, so likely growing"
@@ -451,6 +451,17 @@
     "voip": [
      "Hiring front-of-house or call roles: Senior Customer Service Advisor",
      "Hiring front-of-house or call roles: Customer Service Advisor"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Corlett Bolton & Co Limited",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Legal Secretary"
     ]
    },
    "src": [
