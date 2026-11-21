@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:53+00:00",
+ "updated": "2026-11-21T14:11+00:00",
  "errors": [],
  "leads": [
   {
@@ -26,15 +26,15 @@
    "name": "Sure by Beyon",
    "lanes": {
     "it": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 8 roles at once, so likely growing",
+     "Hiring 5 roles at once, so likely growing",
      "Hiring front-of-house or call roles: Senior Customer Services Manager",
      "Hiring front-of-house or call roles: Customer Service Advisor"
     ],
     "connectivity": [
-     "Hiring 8 roles at once, so likely growing"
+     "Hiring 5 roles at once, so likely growing"
     ],
     "network": [
      "Hiring network or infrastructure skills: Fixed Mobile Convergence Network Performance Lead"
@@ -48,13 +48,13 @@
    "name": "Ambitions  Ltd",
    "lanes": {
     "it": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Sales Support Administrator",
@@ -106,36 +106,16 @@
    ]
   },
   {
-   "name": "Suntera Global",
-   "lanes": {
-    "it": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Client Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Nedbank Private Wealth",
    "lanes": {
     "it": [
-     "Hiring 10 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 10 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 10 roles at once, so likely growing"
+     "Hiring 9 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -146,13 +126,13 @@
    "name": "Praxis Care",
    "lanes": {
     "it": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -364,6 +344,23 @@
    ]
   },
   {
+   "name": "Suntera Global",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Comis Hotel and Golf Resort",
    "lanes": {
     "it": [
@@ -432,13 +429,11 @@
    ]
   },
   {
-   "name": "Peel Group Practice",
+   "name": "Barclays Bank PLC",
    "lanes": {
     "voip": [
-     "Hiring front-of-house or call roles: Part-time Receptionist / Administrator"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Part-time Receptionist / Administrator"
+     "Hiring front-of-house or call roles: Senior Customer Service Advisor",
+     "Hiring front-of-house or call roles: Customer Service Advisor"
     ]
    },
    "src": [
@@ -446,11 +441,21 @@
    ]
   },
   {
-   "name": "Barclays Bank PLC",
+   "name": "Bullfinch Recruitment",
    "lanes": {
-    "voip": [
-     "Hiring front-of-house or call roles: Senior Customer Service Advisor",
-     "Hiring front-of-house or call roles: Customer Service Advisor"
+    "signatures": [
+     "Hiring document-heavy back-office roles: Legal Counsel"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Ramsey Crookall",
+   "lanes": {
+    "signatures": [
+     "Hiring document-heavy back-office roles: Administrator"
     ]
    },
    "src": [
@@ -513,17 +518,6 @@
    ]
   },
   {
-   "name": "Ambitions Ltd",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Senior eGaming / CSP Administrator"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
    "name": "Danucore Limited",
    "lanes": {
     "network": [
@@ -561,17 +555,6 @@
    "lanes": {
     "signatures": [
      "Hiring document-heavy back-office roles: Senior Administrator - EMC Investments"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Manx Telecom",
-   "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Finance Assistant - Synapse & OV"
     ]
    },
    "src": [
