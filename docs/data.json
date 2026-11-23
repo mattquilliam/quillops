@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:01+00:00",
+ "updated": "2026-11-23T17:23+00:00",
  "errors": [],
  "leads": [
   {
@@ -184,23 +184,6 @@
     ],
     "connectivity": [
      "Hiring 6 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Tesco PLC",
-   "lanes": {
-    "it": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 4 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
