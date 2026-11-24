@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:23+00:00",
+ "updated": "2026-11-24T16:57+00:00",
  "errors": [],
  "leads": [
   {
@@ -66,6 +66,26 @@
    ]
   },
   {
+   "name": "Treasury",
+   "lanes": {
+    "it": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 7 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Deputy Legal Aid Certifying Officer"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "IFGL",
    "lanes": {
     "it": [
@@ -86,19 +106,16 @@
    ]
   },
   {
-   "name": "Treasury",
+   "name": "Autism Initiatives",
    "lanes": {
     "it": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 5 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Deputy Legal Aid Certifying Officer"
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -126,13 +143,13 @@
    "name": "Praxis Care",
    "lanes": {
     "it": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -177,13 +194,13 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 6 roles at once, so likely growing"
+     "Hiring 4 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -218,23 +235,6 @@
     ],
     "connectivity": [
      "Hiring 4 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Selin Ltd",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -417,6 +417,17 @@
     "voip": [
      "Hiring front-of-house or call roles: Senior Customer Service Advisor",
      "Hiring front-of-house or call roles: Customer Service Advisor"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Zurich Insurance",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Head of IT"
     ]
    },
    "src": [
