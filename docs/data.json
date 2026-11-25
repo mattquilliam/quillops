@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:57+00:00",
+ "updated": "2026-11-25T16:47+00:00",
  "errors": [],
  "leads": [
   {
@@ -45,6 +45,27 @@
    ]
   },
   {
+   "name": "Manx Independent Carriers",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 6 roles at once, so likely growing",
+     "Hiring front-of-house or call roles: Customer Services Administrator"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Customer Services Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
    "name": "Ambitions  Ltd",
    "lanes": {
     "it": [
@@ -59,6 +80,26 @@
     "signatures": [
      "Hiring document-heavy back-office roles: Sales Support Administrator",
      "Hiring document-heavy back-office roles: Client Services Administrator"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "IFGL",
+   "lanes": {
+    "it": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "voip": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 4 roles at once, so likely growing"
+    ],
+    "signatures": [
+     "Hiring document-heavy back-office roles: Senior Regulatory Compliance Specialist"
     ]
    },
    "src": [
@@ -86,7 +127,7 @@
    ]
   },
   {
-   "name": "IFGL",
+   "name": "Barbary Coast West",
    "lanes": {
     "it": [
      "Hiring 3 roles at once, so likely growing"
@@ -96,9 +137,23 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Paul Carey & Sons Ltd.",
+   "lanes": {
+    "it": [
+     "Hiring 6 roles at once, so likely growing"
     ],
-    "signatures": [
-     "Hiring document-heavy back-office roles: Senior Regulatory Compliance Specialist"
+    "voip": [
+     "Hiring 6 roles at once, so likely growing"
+    ],
+    "connectivity": [
+     "Hiring 6 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -126,13 +181,13 @@
    "name": "Nedbank Private Wealth",
    "lanes": {
     "it": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 9 roles at once, so likely growing"
+     "Hiring 8 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -194,13 +249,13 @@
    "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 4 roles at once, so likely growing"
+     "Hiring 3 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -286,23 +341,6 @@
     ],
     "connectivity": [
      "Hiring 4 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Manx Independent Carriers",
-   "lanes": {
-    "it": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
     ]
    },
    "src": [
@@ -417,6 +455,17 @@
     "voip": [
      "Hiring front-of-house or call roles: Senior Customer Service Advisor",
      "Hiring front-of-house or call roles: Customer Service Advisor"
+    ]
+   },
+   "src": [
+    "jobs"
+   ]
+  },
+  {
+   "name": "Clay Limited",
+   "lanes": {
+    "it": [
+     "Advertising an IT role, which can mean capacity strain: Senior SMS software developer"
     ]
    },
    "src": [
