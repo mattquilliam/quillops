@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:47+00:00",
+ "updated": "2026-11-26T16:22+00:00",
  "errors": [],
  "leads": [
   {
@@ -16,28 +16,6 @@
     ],
     "connectivity": [
      "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Sure by Beyon",
-   "lanes": {
-    "it": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 5 roles at once, so likely growing",
-     "Hiring front-of-house or call roles: Senior Customer Services Manager",
-     "Hiring front-of-house or call roles: Customer Service Advisor"
-    ],
-    "connectivity": [
-     "Hiring 5 roles at once, so likely growing"
-    ],
-    "network": [
-     "Hiring network or infrastructure skills: Fixed Mobile Convergence Network Performance Lead"
     ]
    },
    "src": [
@@ -110,13 +88,13 @@
    "name": "Treasury",
    "lanes": {
     "it": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "voip": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "connectivity": [
-     "Hiring 7 roles at once, so likely growing"
+     "Hiring 6 roles at once, so likely growing"
     ],
     "signatures": [
      "Hiring document-heavy back-office roles: Deputy Legal Aid Certifying Officer"
@@ -230,23 +208,6 @@
   },
   {
    "name": "Clear Pharmacy",
-   "lanes": {
-    "it": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "voip": [
-     "Hiring 3 roles at once, so likely growing"
-    ],
-    "connectivity": [
-     "Hiring 3 roles at once, so likely growing"
-    ]
-   },
-   "src": [
-    "jobs"
-   ]
-  },
-  {
-   "name": "Standard Bank Isle of Man",
    "lanes": {
     "it": [
      "Hiring 3 roles at once, so likely growing"
@@ -550,10 +511,10 @@
    ]
   },
   {
-   "name": "Whittles Law Limited",
+   "name": "Sure by Beyon",
    "lanes": {
-    "signatures": [
-     "Hiring document-heavy back-office roles: Legal PA/Administrator"
+    "network": [
+     "Hiring network or infrastructure skills: Fixed Mobile Convergence Network Performance Lead"
     ]
    },
    "src": [
@@ -561,10 +522,10 @@
    ]
   },
   {
-   "name": "Danucore Limited",
+   "name": "Whittles Law Limited",
    "lanes": {
-    "network": [
-     "Hiring network or infrastructure skills: AI Infrastructure Engineer (Junior to Senior)"
+    "signatures": [
+     "Hiring document-heavy back-office roles: Legal PA/Administrator"
     ]
    },
    "src": [
